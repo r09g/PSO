@@ -8,11 +8,18 @@ A global optimization solver. It solves a problem by having a population of cand
 
 Optimization problem: Rastrigin's Function
 
-/pic
+<p align="center">
+<img src="https://github.com/yanghaoqin/PSO/blob/master/pic/rastriginsfcn.png" />
+</p>
 
+(Source: Matlab)
+
+<br/>
 Optimization performance:
 
-/gif
+<p align="center">
+<img src="https://github.com/yanghaoqin/PSO/blob/master/pic/optimization.gif" />
+</p>
 
 ## Usage
 
