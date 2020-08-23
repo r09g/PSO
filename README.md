@@ -9,7 +9,7 @@ A global optimization solver. It solves a problem by having a population of cand
 Optimization problem: Rastrigin's Function
 
 <p align="center">
-<img src="https://github.com/yanghaoqin/PSO/blob/master/pic/rastriginsfcn.png" />
+<img src="https://github.com/yanghaoqin/PSO/blob/master/pic/rastriginsfcn.png" width="500"/>
 </p>
 
 (Source: Matlab)
