@@ -6,7 +6,7 @@ A global optimization solver. It solves a problem by having a population of cand
 
 ## Demo
 
-Optimization problem: Rastrigin's Function
+Optimization problem 1: Rastrigin's Function
 
 <p align="center">
 <img src="https://github.com/yanghaoqin/PSO/blob/master/pic/rastriginsfcn.png" width="500"/>
@@ -18,8 +18,25 @@ Optimization problem: Rastrigin's Function
 Optimization performance:
 
 <p align="center">
-<img src="https://github.com/yanghaoqin/PSO/blob/master/pic/optimization.gif" />
+<img src="https://github.com/yanghaoqin/PSO/blob/master/pic/optimization_rastriginsfcn.gif" />
 </p>
+
+<br/>
+Optimization problem 2: De Jong's Fifth Function
+
+<p align="center">
+<img src="https://github.com/yanghaoqin/PSO/blob/master/pic/dejong5fcn.png" width="500"/>
+</p>
+
+(Source: Matlab)
+
+<br/>
+Optimization performance:
+
+<p align="center">
+<img src="https://github.com/yanghaoqin/PSO/blob/master/pic/optimization_dejong5fcn.gif" />
+</p>
+
 
 ## Usage
 
